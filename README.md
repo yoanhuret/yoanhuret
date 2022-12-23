@@ -1,6 +1,6 @@
 ### Hi there, I'm Yoan 👋
 
-- 🔭 I’m currently working on... Orange apps and beyooonddddd
+- 🔭 I’m currently working on... Federated Inventory but also for Orange Expert and Orange Volonteer Programs
 - 🌱 I’m currently STILL learning and love it !
 - 💻 I use daily **.js**, **.ts**, **.py**, **.scala**
 - 📖 I am currently reading **Sapiens - A Brief History of Humankind** by Yuval Noah Harari
@@ -46,7 +46,9 @@
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [About]
+- [The bad, the good and the ugly](https://plazza.orange.com/groups/orange-software-experts/blog/2021/05/11/the-bad-the-good-and-the-ugly)
+- [5 years journey with Scala](https://plazza.orange.com/groups/orange-software-experts/blog/2021/12/16/5-years-journey-with-scala)
+- [Job interviews made fun](https://plazza.orange.com/people/yoan.huret@orange.com/blog/2022/12/21/job-interviews-made-fun)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
